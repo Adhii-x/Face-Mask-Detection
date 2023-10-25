@@ -52,8 +52,6 @@ Our face mask detector doesn't use any morphed masked images dataset and the mod
 
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
-## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset)
 
 This dataset consists of __4095 images__ belonging to two classes:
 *	__with_mask: 2165 images__
@@ -61,13 +59,7 @@ This dataset consists of __4095 images__ belonging to two classes:
 
 The images used were real images of faces wearing masks. The images were collected from the following sources:
 
-* __Bing Search API__ ([See Python script](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/search.py))
-* __Kaggle datasets__ 
-* __RMFD dataset__ ([See here](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset))
-
 ## :key: Prerequisites
-
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
 ## 🚀&nbsp; Installation
 1. Clone the repo
@@ -116,9 +108,6 @@ $ python3 detect_mask_video.py
 <a href="https://colab.research.google.com/drive/1AZ0W2QAHnM3rcj0qbTmc7c3fAMPCowQ1?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ####          
 ![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
-
-#### We got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
 
 ## Streamlit app
 
