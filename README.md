@@ -23,7 +23,7 @@
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
 
 ## PPT and Project Report sharing costs ₹1000 ($15)
-If interested, contact me at chandrikadeb7@gmail.com
+If interested, contact me at adhilubinurasheed@gmail.com
 
 # 🌟 [Purchase on Gumroad](https://gum.co/GetFaceMask)
  
@@ -131,7 +131,7 @@ $ streamlit run app.py
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: chandrikadeb7@gmail.com
+:email: adhilubinurasheed@gmail.com
 
 ---
 
